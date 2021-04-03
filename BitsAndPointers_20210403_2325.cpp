@@ -139,6 +139,8 @@ int main()
         << "The method they used had to be very effecient because they used it alot.\n"
         << "(raytracing?, bullets?, reflection?, something to do with angles?, not sure but it was interesting!\n";
     cout << "To use this or learn what they might have done, I need to learn more about floats (and doubles) and how they are stored :)\n";
+    cout << "\n!!! OUPS... I just realized my code doesn't make any sense...\n";
+    cout << "I am just copying x into z... I am too lazy to go over it now thogh... :S\n";
 }
 
 
